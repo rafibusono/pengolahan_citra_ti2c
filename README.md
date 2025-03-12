@@ -1,0 +1,1 @@
+# pengolahan_citra_ti2c
